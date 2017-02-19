@@ -25,6 +25,6 @@ namespace HGroupBadge
                    $"{StructureFormatHelper.FormatType(Type)}" +
                    $"{StructureFormatHelper.FormatColor(Color)}" +
                    $"{StructureFormatHelper.FormatPosition(Position)}";
-        }
+        }//
     }
 }
